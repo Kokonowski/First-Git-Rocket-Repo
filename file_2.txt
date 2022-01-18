@@ -1,2 +1,3 @@
 I have a dog.
 He is a Scottish Terrier.
+He is stubborn.
